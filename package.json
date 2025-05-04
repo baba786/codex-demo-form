@@ -1,0 +1,21 @@
+{
+  "name": "codex-demo-form",
+  "version": "1.0.0",
+  "description": "A form implementation using Wikimedia Design Codex components",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@wikimedia/codex": "^1.23.0",
+    "@wikimedia/codex-icons": "^1.23.0",
+    "@wikimedia/codex-design-tokens": "^1.23.0",
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
